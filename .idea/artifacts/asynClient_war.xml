@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asynClient:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="asynClient.war">
+      <element id="artifact" artifact-name="asynClient:war exploded" />
+    </root>
+  </artifact>
+</component>
